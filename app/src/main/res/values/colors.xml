@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uno">#03122F</color>
+    <color name="dos">#19305C</color>
+    <color name="tres">#413B61</color>
+    <color name="cuatro">#AE7DAC</color>
+    <color name="cinco">#F3DADF</color>
+    <color name="seis">#F1916D</color>
+    <color name="backgroundEditText">#5B5B5B</color>
+</resources>
